@@ -1,0 +1,17 @@
+# python
+__pycache__/
+*.pyc
+.venv/
+.env
+
+# data
+data/
+!.gitkeep
+
+# streamlit
+.streamlit/
+
+# OS / editors
+.DS_Store
+.vscode/
+.idea/
