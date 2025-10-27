@@ -34,8 +34,8 @@ make dash                   # open Streamlit dashboard
 ##Dashboard
 **Streamlit Dashboard Screenshots:**
 
-![Dashboard View 1](assets/Screenshot 2025-10-25 at 11.25.44 AM.png)
-![Dashboard View 2](assets/Screenshot 2025-10-25 at 11.25.31 AM.png)
+![Dashboard View 1](assets/screenshot1)
+![Dashboard View 2](assets/screenshot2)
 
 ##License
  MIT — free for commercial and personal use.
