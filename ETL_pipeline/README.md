@@ -32,7 +32,7 @@ make dash                   # open Streamlit dashboard
 • Swap MQTT→Kafka, Parquet→Delta/Iceberg or Snowflake (Snowpipe Streaming), add dbt/Great Expectations, and CI/CD.
 
 ##Dashboard
-![Dashboard View 1](assets/screenshot.png)  
+![Dashboard View 1](assets/screenshot.png)
 ![Dashboard View 2](assets/screenshot2.png)
 
 
